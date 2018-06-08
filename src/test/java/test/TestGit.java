@@ -5,4 +5,5 @@ package test;
  */
 public class TestGit {
     private String id;
+    private String name;
 }
